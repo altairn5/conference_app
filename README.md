@@ -1,3 +1,6 @@
+Ready for Rails!
+This has been a very light introduction to faking data, seeding your database, and working with models and inheritance. We're ready to dive into rails and work with ActiveRecord!
+
 1. Create a new rails application
 
 Make sure you're in a new project folder
